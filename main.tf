@@ -3,5 +3,6 @@ resource "azurerm_resource_group" "rg1" {
     location = "East US"
 
 #omkar
+123
   
 }
