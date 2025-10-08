@@ -4,5 +4,7 @@ resource "azurerm_resource_group" "rg1" {
 
 #omkar
 123
+
+omkar
   
 }
